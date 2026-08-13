@@ -12,3 +12,7 @@ elif opcao == 3:
     print(calculadora.multiplicar(a, b))
 elif opcao == 4:
     print(calculadora.dividir(a, b))
+elif opcao == 5:
+    print('Saindo...')
+else:
+    print('Opção inválida')
