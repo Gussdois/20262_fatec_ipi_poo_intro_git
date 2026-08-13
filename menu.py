@@ -10,3 +10,5 @@ elif opcao == 2:
     print(calculadora.subtrair(a, b))
 elif opcao == 3:
     print(calculadora.multiplicar(a, b))
+elif opcao == 4:
+    print(calculadora.dividir(a, b))
